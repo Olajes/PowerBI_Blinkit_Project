@@ -92,15 +92,6 @@ To conduct a comprehensive analysis of Blinkit's sales performance, customer sat
 
 ---
 
-## 🚀 **Getting Started**
-To run this project, you need:
-1. **Power BI Desktop** installed.
-2. Download the project files from this repository.
-3. Open the Power BI file (`.pbix`) and connect to the dataset.
-4. Explore the dashboard and customize it as needed.
-
----
-
 ## 📢 **Contact**
 For any inquiries or feedback, feel free to reach out:
 
@@ -110,5 +101,3 @@ For any inquiries or feedback, feel free to reach out:
 
 ---
 
-**© 2024 PowerBI_Blinkit_Project**
-# PowerBI_Blinkit_Project
